@@ -8,5 +8,11 @@
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-28T18:52:23.050Z",
   "schemaVersion": 3,
-  "chapters": []
+  "chapters": [
+    {
+      "slug": "introduction",
+      "title": "Introduction",
+      "mode": "package"
+    }
+  ]
 }
