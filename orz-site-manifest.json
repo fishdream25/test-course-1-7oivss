@@ -1,0 +1,81 @@
+{
+  "assets": [],
+  "baseUrl": "https://fishdream25.github.io/test-course-1-7oivss/",
+  "carriers": {
+    "md": {
+      "version": "1.1.0"
+    }
+  },
+  "config": {
+    "sha256": "44139278df41c18747c0c85f4f0431f505ef29bf99e16cd695014ab7c0fbdbcb"
+  },
+  "documents": [
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "fb0e03d2bbaec4ff41e162e54609d4f758208c2f27b41e002bf7a8d71e6aa1b0",
+      "kind": "md",
+      "output": "README.md.html",
+      "outputSha256": "47c0088e6f4ffcf9d8827cc788ccca4f6a416d795ce076aab11c273a4fd2a305",
+      "path": "README.md",
+      "sha256": "b55ffe13fffd906f690c03940ce51395f4a99c050d486eebc03fb81e4a882b3c",
+      "title": "Alembic OER package (private)"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "faa6ec12e21fd375190797b52017df54df1d883da56b18a58736bd3dfbfaca42",
+      "kind": "md",
+      "output": "assessment-support/introduction.md.html",
+      "outputSha256": "136d7f2e1ac59e90d50973e5018ca4dc013af227084d4af229a1691ec906d14f",
+      "path": "assessment-support/introduction.md",
+      "sha256": "35dd39c318d6e0ae67efba26d3a8a510f444b0fa7880e9760732597ef9dc5b1f",
+      "title": "Assessment guide: Introduction",
+      "uid": "doc-a9ukdejttjp5"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "5264fc1d4df214cbd71e27a55c82fa731d7ce904eeeb89134bd3555fc8f93966",
+      "kind": "md",
+      "output": "concepts/introduction.md.html",
+      "outputSha256": "f894dc62a561da8f8cdb067df23d98db6ee92d1ac0549ffba15159539e34a01b",
+      "path": "concepts/introduction.md",
+      "sha256": "a0f381bf8ac2bb0250370413355fe6500ea32c2d7a0290cd840c89843ee3f8a1",
+      "title": "Concept map: Introduction",
+      "uid": "doc-cwb4bu1jwrsa"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "ba53af598dd211c58c267eaff6ef9c5525e945a2d850e9e973497e01219f069f",
+      "kind": "md",
+      "output": "study-guide/introduction.md.html",
+      "outputSha256": "04c347b7c80162af136e658426387f1512c338bb5bdb1c122783d2f90cc23e1b",
+      "path": "study-guide/introduction.md",
+      "sha256": "b0e027476395855d26d75cf69074d3cdc11474bb516df0fd389f4af55c1b7389",
+      "title": "Introduction",
+      "uid": "doc-k1w5cdurfvdl"
+    }
+  ],
+  "format": 1,
+  "generated": [
+    {
+      "path": ".nojekyll",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "index.html",
+      "sha256": "41bfcb0fe9feb69ff2713e7b32089890a28f6f959121edf4672cd925a142d5d6",
+      "source": "{{nyml\nkind: document\ntitle: test course 1\nlang: en\n}}\n\n# test course 1\n\n- [Alembic OER package \\(private\\)](README.md)\n\n## assessment\\-support\n\n- [Assessment guide\\: Introduction](assessment-support/introduction.md)\n\n## concepts\n\n- [Concept map\\: Introduction](concepts/introduction.md)\n\n## study\\-guide\n\n- [Introduction](study-guide/introduction.md)\n",
+      "text": "index.md"
+    },
+    {
+      "path": "sitemap.xml",
+      "sha256": "260e3b84a35d2830b0c854f513ea96f91d1df2c5ffe23b811465d020d2c03692"
+    }
+  ],
+  "generator": "orz-site 0.1.0",
+  "naming": "family",
+  "skipped": []
+}
