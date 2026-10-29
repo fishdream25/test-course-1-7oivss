@@ -1,10 +1,9 @@
-# Alembic OER package (public)
+# Alembic OER package (private)
 
-This repository holds the **public** half of an Alembic open educational
-resource package: the study guide, public materials, provenance, metadata, and
-the published site source. Its companion **private** repository holds
-instructor notes, answer keys, and embargoed assessments.
+This repository holds the **private** half of an Alembic open educational
+resource package: instructor notes, answer keys, embargoed assessments, and
+other private generated items, under `private-instructor/`.
 
-Managed with [Alembic](https://github.com/wangyu16/Alembic), but this is a
-plain Git repository — it remains usable, buildable, and adaptable without the
-platform. The package manifest is `alembic.json`.
+It is the companion of a public repository (see that repo's `alembic.json`).
+Nothing here is ever published. Managed with
+[Alembic](https://github.com/wangyu16/Alembic).
