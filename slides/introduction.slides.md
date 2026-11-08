@@ -21,4 +21,4 @@ theme: paper
 
 <!-- slide template=closing -->
 ## Summary
-- Key point (A3 S3 copy closing)
+- Key point (A3 S3 copy closing) A4O-S.
