@@ -13,7 +13,7 @@ theme: paper
 
 <!-- slide -->
 ## Learning objectives
-1. First objective (OWNER S3 slide) ORIG-R2. A4O-S2.
+1. First objective (OWNER S3 slide) ORIG-R2. A4O-S2. A5O-S.
 
 <!-- slide template=outline -->
 ## What we will cover OWNER-S3-other ORIG-R3.
