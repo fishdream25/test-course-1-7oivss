@@ -13,4 +13,6 @@ Start writing here. A3 copy suggestion X. A4C-1.
 
 Blind A original change 2 14:14: original edits the middle. OWNER other2.  A5O-1.ORIG-UPD-P. A4O-CONFLICT.
 
-Some test message. something new. Owner A2 edit at the end (must stay). A3 S2 copy. ORIG-UPD-2. A4O-2. A4O-R2.
+Some test message. something new. Owner A2 edit at the end (must stay). A3 S2 copy. ORIG-UPD-2. A4O-2. A4O-R2. FIN-O1.
+
+H2 ALEMBIC edit to intro study guide (both places).

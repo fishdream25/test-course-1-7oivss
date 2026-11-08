@@ -9,7 +9,7 @@ uid: doc-87srojqpkg5f
 
 ## Objectives
 
-*What a student can do after this chapter (from the concept map).*
+*What a student can do after this chapter (from the concept map).* FIN-O2.
 
 ## First section
 
