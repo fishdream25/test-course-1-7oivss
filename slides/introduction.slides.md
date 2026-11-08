@@ -13,12 +13,12 @@ theme: paper
 
 <!-- slide -->
 ## Learning objectives
-1. First objective
+1. First objective (OWNER S3 slide)
 
 <!-- slide template=outline -->
-## What we will cover
-- First point
+## What we will cover OWNER-S3-other
+- First point (phone copy adds a point)
 
 <!-- slide template=closing -->
 ## Summary
-- Key point
+- Key point (A3 S3 copy closing)
