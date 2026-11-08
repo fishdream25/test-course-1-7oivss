@@ -16,7 +16,7 @@ theme: paper
 1. First objective (OWNER S3 slide) ORIG-R2.
 
 <!-- slide template=outline -->
-## What we will cover OWNER-S3-other
+## What we will cover OWNER-S3-other ORIG-R3.
 - First point (phone copy adds a point)
 
 <!-- slide template=closing -->
