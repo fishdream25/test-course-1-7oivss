@@ -26,4 +26,4 @@ theme: paper
 <!-- slide -->
 ## A4-R3-NEWSLIDES marker v2
 
-Blind H 00:06 ROUND3 line (bring back interrupted by take back).
+Blind H 00:06 ROUND3 line (bring back interrupted by take back). FIN-O5.
