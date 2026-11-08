@@ -21,4 +21,4 @@ theme: paper
 
 <!-- slide template=closing -->
 ## Summary
-- Key point
+- Key point A5O-NEW2-REPUBLISHED.
