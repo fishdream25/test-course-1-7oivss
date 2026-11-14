@@ -1,0 +1,154 @@
+{
+  "assets": [
+    {
+      "path": "index.html",
+      "sha256": "dcf9af1a6daa1975aee5b1ab9721904a21818177f6ac4fce65377e2b1b25e46a"
+    }
+  ],
+  "baseUrl": "https://fishdream25.github.io/test-course-1-7oivss/",
+  "carriers": {
+    "md": {
+      "version": "1.2.0"
+    },
+    "slides": {
+      "version": "1.2.0"
+    }
+  },
+  "config": {
+    "sha256": "612523975417020b2e6383d7c49fe4d590bfc39f5a30e639e1b9f17cb60baa75"
+  },
+  "documents": [
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "0a29df1dfd28fb66c25bc959dfa5244d760f07022c98fcc780bede7b5e081378",
+      "kind": "md",
+      "output": "README.md.html",
+      "outputSha256": "f307a56c48c6c5b4de4d47549ebd8e50495f489d272b7c1c1e2f9519498ed95d",
+      "path": "README.md",
+      "sha256": "4cd08d14a418562f51879dce5099fb3c4454ceb8c2445eee59b8c74cfa960b6c",
+      "title": "Alembic OER package (private)"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "4d71d3bb163f9e2b56ede28738407b2ba2742719a1e9bda4e6c5c8bbf0eb78d7",
+      "kind": "md",
+      "output": "index.md.html",
+      "outputSha256": "a7f352cdc522fc8be0bc7c9381ff6b9147e19568e4384c245d5153c752204089",
+      "path": "index.md",
+      "sha256": "5b30ddd50de5a7270af78f7280ccc28a3440232450f987d492d6952824edcd47",
+      "title": "test course 1"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "5a3e0926f13becadbc786734bf13658a4e660e31690164ccdc2bf87fe7f39f7d",
+      "kind": "md",
+      "output": "practice/blind-a4-chapter.md.html",
+      "outputSha256": "0594ce6ce3d4b28e89328908015fe8bd302745e12ad1b6e943957f6974554032",
+      "path": "practice/blind-a4-chapter.md",
+      "sha256": "b6bf600688f89ce751d3b6b0d4a6c52c8ab5085f959bcddccc728a9006b0a93e",
+      "title": "Blind A4 chapter",
+      "uid": "doc-fk12kptwgx8d"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "1ff571dd9704641ff118cb9ba97b73ee14ed872d0a4807206870b53c6e67361b",
+      "kind": "md",
+      "output": "practice/introduction.md.html",
+      "outputSha256": "a5b5841f62cff658b4e218b8e78a061ebd2c6672c3febeabff7e3b9dd79e5b8b",
+      "path": "practice/introduction.md",
+      "sha256": "0031a80489727b04be205b3a357875ae517812ac3966dd195df934fbb9e0cf21",
+      "title": "Introduction",
+      "uid": "doc-la8573p9dg9p"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "ee3b27f9d21b8b8fa87e3c6d66bda11400ceccd1a748d9347698eab63aaab9f3",
+      "kind": "slides",
+      "output": "slides/blind-a3-new-chapter.slides.html",
+      "outputSha256": "4b52890ea01925eb461aa9127d5ff58b3020cfee7ad939eaf85359b11cb6e86c",
+      "path": "slides/blind-a3-new-chapter.slides.md",
+      "sha256": "9a8315c549cd187a94885a4ef82b0db89c32c475af9be6958dbadb9770984e3e",
+      "title": "Blind A3 new chapter",
+      "uid": "doc-zzbpkh5fsyuz"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "10a19919f4d94a078e726f17e98c666bed5da3e0e1cd90323e8f5cf6ff1ba9ee",
+      "kind": "slides",
+      "output": "slides/blind-a4-chapter.slides.html",
+      "outputSha256": "25aede1b8528327b19cd93549562c4221cf99ab607f2c68d9004bdd8337c0f65",
+      "path": "slides/blind-a4-chapter.slides.md",
+      "sha256": "fc0788b2f1f573e03ff59dd7bf6c92b602ba16f9e790ed20e0ebb0d8567ac3ec",
+      "title": "Blind A4 chapter",
+      "uid": "doc-cc76wt57fwkj"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "bcf1152571b711505d487d33aede6e1e6f7ab16f3be916d25fe6f437d5eb1420",
+      "kind": "slides",
+      "output": "slides/introduction.slides.html",
+      "outputSha256": "819eafeca18795f7aa030bce786bc0c1c82ff9b1a9f5a6936fc474091c7736eb",
+      "path": "slides/introduction.slides.md",
+      "sha256": "4ab9ad5cd6e5ed3c025fdf1ec4c69de6f5665dfa0a69c5597a933a0beddcc6a2",
+      "title": "Introduction",
+      "uid": "doc-1s1are972s2h"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "cef91a13598f8b7b768e827c10c0545137d5f35b60b2522fee6652bdb03b5f82",
+      "kind": "md",
+      "output": "study-guide/blind-a3-new-chapter.md.html",
+      "outputSha256": "3406c285cd2346b68c38e5a1c2ba4d7ebd517d76187aadbb61e298a1574884d5",
+      "path": "study-guide/blind-a3-new-chapter.md",
+      "sha256": "f71f4b770b958b8842f5251d0cc869ba1397bd5b4e6d4e07eddf83a00b27b4d9",
+      "title": "Blind A3 new chapter",
+      "uid": "doc-no0xgkkdooxf"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "81b6bc42a4b0785c6224a01eb20582f008b0ea919fc99afb33f5f0eedd0bda79",
+      "kind": "md",
+      "output": "study-guide/blind-a4-chapter.md.html",
+      "outputSha256": "228640d07b5e27cdd44a5cf42188dcbd1c8531b318881dc4383e85c305770c47",
+      "path": "study-guide/blind-a4-chapter.md",
+      "sha256": "6d77952b7127a4fc32409a8cb2d0b6893fe138c8ad7f37cbfa64c7c4251353d8",
+      "title": "Blind A4 chapter",
+      "uid": "doc-87srojqpkg5f"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "bccdfa36aa97fd390d615be29a0ba9860c69e24eeeaf9b292b693a566833750f",
+      "kind": "md",
+      "output": "study-guide/introduction.md.html",
+      "outputSha256": "449ab5369320147df302fae344ad10c944f45491712dafbbec768b1af96d807b",
+      "path": "study-guide/introduction.md",
+      "sha256": "2d1bad183a760db537fafcaffcc26023905a048ed93051bc6a126b9a8103e18d",
+      "title": "Introduction",
+      "uid": "doc-k1w5cdurfvdl"
+    }
+  ],
+  "format": 1,
+  "generated": [
+    {
+      "path": ".nojekyll",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "sitemap.xml",
+      "sha256": "78160fd3a0b26ddc6067a25846d88044f0f507f9ae20a175aa0c5bfc48fa6717"
+    }
+  ],
+  "generator": "orz-site 0.1.0",
+  "naming": "family",
+  "skipped": []
+}
